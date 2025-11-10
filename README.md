@@ -60,7 +60,7 @@ This is a **complete open source package** to build your own Aria Art Plotter:
 
 ### Build Process Overview
 
-1. **Review Documentation**: Read the [Assembly Guide](docs/docs/AriaArtPlotterAssemblyManual_V1.pdf)
+1. **Review Documentation**: Read the [Assembly Guide](docs/AriaArtPlotterAssemblyManual_V1.pdf)
 3. **Print Parts**: Download [STL files](hardware/stl/) and print components as per manual instruction
 4. **Optional Cut Parts**: Process [DXF files](hardware/dxf/) for frame parts
 5. **Assemble**: Follow video tutorials and assembly guide
