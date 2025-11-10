@@ -1,0 +1,76 @@
+Category,Qty,Component,Specification,Notes,Amazon_Link,AliExpress_Alternative
+Electronics,1,Main Board,BIGTREETECH Manta M5P V1.0,,https://amzn.to/49a1JgA,Yes
+Electronics,1,MCU,BIGTREETECH CB1 V2.2,Included in M5P kit,https://amzn.to/49a1JgA,Yes
+Electronics,1,Heatsink,BIGTREETECH CB1 Heatsink,Required for CB1,https://amzn.to/3Lx8sXW,Yes
+Electronics,4,Stepper Drivers,BIGTREETECH TMC2209 V1.3,"For X, 2Y, Z axes",https://amzn.to/4ovlbsY,Yes
+Electronics,4,Stepper Motors,NEMA 17,1.8° step angle,https://amzn.to/4nLkdHN,Yes
+Electronics,1,Display,BIGTREETECH Mini12864 V2.0,LCD Graphic Smart Display,https://amzn.to/49G2H48,Yes
+Electronics,1,OLED Display,0.91" OLED I2C Display,Pre-soldered preferred,https://amzn.to/4orxmGV,Yes
+Electronics,1,Microcontroller,Seeeduino Xiao,Non-ESP version,https://amzn.to/4qP1rlw,Yes
+Electronics,1,Power Supply,Mean Well LRS-350-24,24V 350W,https://amzn.to/4hLWdTo,Yes
+Electronics,1,Limit Switch,REIFENG Limit Switch,Model B07PCN6T6F,https://amzn.to/4os5JNY,Yes
+Electronics,1,Power Socket,AC-01A 10A 250V,Must include fuse or add 10A fuse,https://amzn.to/4oWWxB7,Yes
+Electronics,1,Auto Bed Leveling,BIQU MicroProbe V2.0 Kit,Includes B1/H2 V2S bracket,https://amzn.to/4nLnPJI,Yes
+Electronics,3,JST Connectors 4P(F),JST-XH Connector,For steppers (usually included with M5P),https://amzn.to/49a1JgA,Yes
+Electronics,6,JST Connectors 3P(F),JST-XH Connector,For limit switches (usually included with M5P),https://amzn.to/49a1JgA,Yes
+Wiring,30 ft,Stepper Cable,22 AWG 4-conductor,For stepper motor cables,https://amzn.to/47u0bwz,Yes
+Wiring,21 ft,Switch Cable,22 AWG 2-conductor,For limit switches,https://amzn.to/4ooMlS9,Yes
+Wiring,9 ft,Probe Cable,22 AWG 5-conductor,For probe,https://amzn.to/4oxtx3c,Yes
+Wiring,2 pc,DC Wiring,18 AWG ~5 ft each,Red and Black (consult Section 6),https://amzn.to/43mbBzX,Yes
+Wiring,6 ft,AC Wiring,14 AWG,Optional (consult Section 6),https://amzn.to/3LlG774,No
+Wiring,1,JST Connector 6P,JWF-VSLE Series,For probe on pen side,https://amzn.to/3LOpSiQ,Yes
+Wiring,4,JST Connector 4P,JWF-VSLE Series,For NEMA motors on plotter side,https://amzn.to/3Lrh6Y5,Yes
+Wiring,100,Crimping Terminals,AMP-TE,Usually included with M5P,https://amzn.to/492HrW9,Yes
+Wiring,2,JST-XH 2P(M),JST-XH Connector,Power/data for Xiao & OLED,Included with M5P,Yes
+Wiring,1,JST-XH 4P(M),JST-XH Connector,Power/data for Xiao & OLED,Included with M5P,Yes
+Wiring,1,Dupont Cable,4-conductor F-F ~8 inch,,https://amzn.to/4nMufZf,Yes
+Wiring,1,USB Cable,USB-C to USB-A 1 ft,Data capable (not power-only),https://amzn.to/497YrKL,Yes
+Hardware,6m,Aluminum Extrusion,2020 V-SLOT Profile,20 ft - buy extra for mistakes,https://amzn.to/3Lzcj6N,Yes
+Hardware,12,V-Slot Wheels,POM Wheels 5mm bore,,https://amzn.to/43UkyAL,Yes
+Hardware,12,Eccentric Spacers,PCS Eccentric Spacers,,https://amzn.to/43UkyAL,Yes
+Hardware,1,Drag Chain Small,R18 10x15 39.3",For 20x20 plotter,https://amzn.to/43WwS3m,Yes
+Hardware,1,Drag Chain Large,R28 15x30 39.4",For 20x20 plotter,https://amzn.to/43OVmLY,Yes
+Hardware,10 ft,GT2 Timing Belt,2mm pitch 6mm wide,,https://amzn.to/3Xgb27d,Yes
+Hardware,3,GT2 Pulley,20 teeth 5mm bore 6mm width,,https://amzn.to/4qNTSvf,Yes
+Hardware,1,Ball Bearing,8mm×19mm×6mm flanged,,https://amzn.to/4qKgzAN,Yes
+Hardware,1,Lead Screw,T8 150mm length,Includes brass nut,https://amzn.to/4oYJ3VA,Yes
+Hardware,1,T8 Brass Nut,,Sold with lead screw,https://amzn.to/4oYJ3VA,Yes
+Hardware,1,Flexible Coupling,5mm to 8mm shaft,,https://amzn.to/47EYGff,Yes
+Hardware,1,Linear Rail,MGN9H 200mm,With MGN9H carriage,https://amzn.to/4nPZ27r,Yes
+Hardware,1,Linear Rail,MGN9H 100mm,With MGN9H carriage (or cut 200mm),https://amzn.to/4nPZ27r,Yes
+Hardware,1,Compression Spring,0.7×7×15mm 8 coils,Stainless steel,https://amzn.to/4orAt1z,Yes
+Hardware,1,Thumb Screw,M6×25mm knob,,https://amzn.to/47vAuMb,Yes
+Hardware,1,Thumb Screw,M4×25mm knob,,https://amzn.to/47vAuMb,Yes
+Hardware,1,Threaded Insert,M6×8×8mm brass,,https://amzn.to/49H7JNU,Yes
+Hardware,1,Threaded Insert,M4×6×6mm brass,,https://amzn.to/49H7JNU,Yes
+Hardware,1,Rubber Band,,Optional if not using spring mechanism,,No
+Fasteners-M5,22,Self-Tapping Screws,M5×10 or M5×8 (or #10-24),For 2020 extrusion face plate,https://amzn.to/3JCL1vS,Yes
+Fasteners-M5,14,Button Head Screws,M5×12,,https://amzn.to/3JCL1vS,Yes
+Fasteners-M5,6,Button Head Screws,M5×16,,https://amzn.to/3JCL1vS,Yes
+Fasteners-M5,85,Button Head Screws,M5×8,,https://amzn.to/47L2sT4,Yes
+Fasteners-M5,14,Button Head Screws,M5×40,,https://amzn.to/4qInYjP,Yes
+Fasteners-M5,2,Button Head Screws,M5×30,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M5,19,Nuts,M5,,https://amzn.to/4nFjJCV,Yes
+Fasteners-M5,14,Locking Nuts,M5 Nylon Insert,,https://amzn.to/4hQLt6f,Yes
+Fasteners-M5,13,Locking Washers,M5 Star,,https://amzn.to/47MtgSK,Yes
+Fasteners-M5,81,Sliding Nuts,M5 for 2020 V-Slot,,https://amzn.to/4nK0OqD,Yes
+Fasteners-M5,6,T-Nuts,M5 Flat Sliding for T-Slot,,https://amzn.to/4nFSHez,Yes
+Fasteners-M5,8,Sheet Metal Screws,M5 or #10 Pan Head,For screen (length depends on panel),,No
+Fasteners-M3/M4,4,Button Head Screws,M4×8,,https://amzn.to/43iiQJe,Yes
+Fasteners-M3/M4,4,Sheet Metal Screws,M3 Pan Head,For card reader (length depends on panel),,No
+Fasteners-M3/M4,4,Hex Head Cap Screws,M3×8,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,8,Hex Head Cap Screws,M3×12,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,22,Button Head Screws,M3×8,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,17,Button Head Screws,M3×12,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,2,Button Head Screws,M3×25,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,29,Nuts,M3,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,7,Flat Washers,M3,,https://amzn.to/4qTFFxa,Yes
+Fasteners-M3/M4,13,Locking Washers,M3,,https://amzn.to/4qTFFxa,Yes
+Materials,As needed,Zip Ties,Small & Medium,For cable management,,No
+Materials,6 in,Expanded Sleeving,½ inch,Optional for pen probe wiring,https://amzn.to/47R38X1,Yes
+Materials,1 ft,Wire Loom Tubing,1 inch split,,https://amzn.to/47Msl4Y,Yes
+Materials,As needed,Ferrule Terminals,,For clean wire ends,https://amzn.to/3JrZyum,Yes
+Materials,6m,Slot Cover,Aluminum extrusion,,https://amzn.to/47vTqdK,Yes
+Materials,1,AC Power Cord,3-prong 10A 125V,Standard black cable,https://amzn.to/47R2xEL,No
+Materials,As needed,Heat Shrink Tubing,Various sizes,For wire insulation,https://amzn.to/480zWxU,Yes
+3D_Printed,~2.5kg,Filament,PETG or ABS recommended,See /STL/ directory for files,,N/A
