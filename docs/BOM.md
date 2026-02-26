@@ -60,8 +60,8 @@
 | 1 | Lead Screw | T8, 150mm length | Includes brass nut | [Amazon](https://amzn.to/4oYJ3VA) |
 | 1 | T8 Brass Nut | - | Sold with lead screw | [Amazon](https://amzn.to/4oYJ3VA) |
 | 1 | Flexible Coupling | 5mm to 8mm shaft | - | [Amazon](https://amzn.to/47EYGff) |
-| 1 | Linear Rail | MGN9H, 200mm | With MGN9H carriage | [Amazon](https://amzn.to/4nPZ27r) |
-| 1 | Linear Rail | MGN9H, 100mm | With MGN9H carriage (or cut 200mm) | [Amazon](https://amzn.to/4nPZ27r) |
+| 1 | Linear Rail | MGN12, 200mm | With MGN12H carriage | [Amazon](https://a.co/d/0fwBGblU) |
+| 1 | Linear Rail | MGN12, 100mm | With MGN12H carriage (or cut 200mm) | [Amazon](https://a.co/d/08qK8v18) |
 | 1 | Compression Spring | 0.7×7×15mm, 8 coils | Stainless steel | [Amazon](https://amzn.to/4orAt1z) |
 | 1 | Thumb Screw | M6×25mm knob | - | [Amazon](https://amzn.to/47vAuMb) |
 | 1 | Thumb Screw | M4×25mm knob | - | [Amazon](https://amzn.to/47vAuMb) |
