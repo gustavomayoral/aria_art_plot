@@ -63,7 +63,7 @@ Complete parts list for building your own Aria Art Plotter.
 ### Critical Components (Don't Substitute)
 - BIGTREETECH Manta M5P (firmware optimized for this board)
 - TMC2209 stepper drivers (silent operation, UART mode)
-- MGN9 linear rails (precision critical)
+- MGN12 linear rails (precision critical)
 - Mean Well LRS-350-24 PSU (reliable 24V power)
 
 ### Flexible Components (Substitution OK)
