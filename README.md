@@ -68,7 +68,7 @@ This is a **complete open source package** to build your own Aria Art Plotter:
 7. **Calibrate**: Run test patterns and mesh compensation
 8. **Create**: Start drawing!
 
-**Estimated Build Time**: 20-30 hours total
+**Estimated Build Time**: 8-12 hours total
 
 ---
 

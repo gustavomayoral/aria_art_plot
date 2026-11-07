@@ -23,7 +23,7 @@ Complete parts list for building your own Aria Art Plotter.
 
 ## 🛠️ Build Requirements
 
-- **Build Time:** 20-40 hours
+- **Build Time:** 8-12 hours
 - **Skill Level:** Intermediate
 - **3D Printing:** ~2.5kg filament (PETG or ABS recommended)
 - **Tools Required:** 
